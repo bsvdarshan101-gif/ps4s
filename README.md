@@ -16,3 +16,6 @@ Platform selection: Platform and time slot are jointly optimized. This captures 
 Balancing activity and history: The multiplicative model naturally balances both signals. Platform activity scales creator-specific engagement, so strong off-peak historical performance competes directly with moderate peak-hour engagement.
 
 Schedule vs post_now: If the optimal time slot matches the content's creation timestamp, we post immediately. Otherwise, we schedule for the predicted optimal window.
+
+link:
+https://ps4-main.vercel.app
